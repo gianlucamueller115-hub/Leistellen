@@ -1,8 +1,0 @@
-{
-  "name": "rp-portal",
-  "private": true,
-  "type": "module",
-  "dependencies": {
-    "appwrite": "^17.0.0"
-  }
-}
